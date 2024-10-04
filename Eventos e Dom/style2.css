@@ -1,0 +1,13 @@
+img{
+    border-radius: 100%;
+}
+
+.cardPricipal{
+    width: ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    background-color: #252525;
+    color: #fff;
+}
